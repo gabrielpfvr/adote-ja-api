@@ -1,0 +1,1 @@
+## adote-ja-api
